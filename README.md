@@ -1,4 +1,4 @@
-👋 Hi, I’m @plainjanetype
+👋 Hi, I’m @plainjanetypes
 👀 I’m interested in ... learning devops
 🌱 I’m currently learning ... terraform, bicep
 💞️ I’m looking to collaborate on ... labs/use cases for terraform and powershell
